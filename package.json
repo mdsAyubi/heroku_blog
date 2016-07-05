@@ -1,0 +1,22 @@
+{
+  "name": "heroku_blog",
+  "version": "1.0.0",
+  "description": "A simple blog",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies" : {
+    "mime" : "~1.2.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdsAyubi/heroku_blog.git"
+  },
+  "author": "ayubi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdsAyubi/heroku_blog/issues"
+  },
+  "homepage": "https://github.com/mdsAyubi/heroku_blog#readme"
+}
